@@ -65,7 +65,10 @@
   },
   "1221538972426305576": {
     "username": "tomaseeekk",
-    "standoffId": "238301710"
+    "standoffId": "238301710",
+    "clanIds": {
+      "5": "223724495"
+    }
   },
   "1176308665322586272": {
     "username": "_spaga_rapid_",
