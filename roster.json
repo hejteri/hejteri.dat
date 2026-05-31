@@ -313,7 +313,10 @@
   },
   "1331201266122231809": {
     "username": "nottheonetofollow",
-    "standoffId": "99483311"
+    "standoffId": "99483311",
+    "clanIds": {
+      "5": "282224163"
+    }
   },
   "1481675168286769284": {
     "username": "iliatopuria1312",
