@@ -609,9 +609,11 @@
     "clanIds": {}
   },
   "1447154910763417632": {
-    "username": "kyo.todashi_58420",
+    "username": "kyo_todashi",
     "standoffId": "248634880",
-    "clanIds": {}
+    "clanIds": {
+      "6": "251756070"
+    }
   },
   "598207439359180813": {
     "username": "ltxch",
