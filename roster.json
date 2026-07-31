@@ -496,9 +496,11 @@
     }
   },
   "1502403763099664435": {
-    "username": "10gaara_10",
+    "username": "deko__10",
     "standoffId": "136793234",
-    "clanIds": {}
+    "clanIds": {
+      "2": "136793234"
+    }
   },
   "997864849021354036": {
     "username": "j6sgse",
